@@ -1,6 +1,6 @@
 # Translation_of_Soviet_History说明
 
-本仓库存放了E. H. Carr教授的*A History of Soviet Russia*的中文翻译版。未来会增加 $\LaTeX$ 格式的版本，目前大多数卷仅有PDF版本可供下载，第六卷尝试了转为EPUB格式，但目录有些问题（正文内容应该是正常的）。下载请前往Release进行下载。
+本仓库存放了E. H. Carr教授的*A History of Soviet Russia*的中文翻译版。未来会增加 $\LaTeX$ 格式的版本，目前大多数卷仅有PDF版本可供下载，第六卷开始尝试了转为EPUB格式，但目录有些问题（正文内容应该是正常的）。下载请前往Release进行下载。
 
 如有问题可发布Issue反馈。
 
@@ -17,3 +17,5 @@
 - 2026-02-01：提交了第五卷的PDF第一版。
 
 - 2026-05-02：提交了第六卷的PDF第一版与EPUB第一版。鉴于EPUB文件的目录存在一定问题，建议优先选择PDF版。
+
+- 2026-06-17：提交了第七卷的PDF第一版与EPUB第一版。鉴于EPUB文件的目录存在一定问题，建议优先选择PDF版。
